@@ -1,0 +1,12 @@
+https://vladmihalcea.com/the-best-way-to-map-a-onetoone-relationship-with-jpa-and-hibernate/
+
+http://localhost:8080/registerUser
+
+{
+    "name" : "Om Prakash",
+    "emailId" : "For Testing 2",
+    "pincode": 756112
+}
+
+
+http://localhost:8080/user/search/findByUserId?userId=COVE2019996
